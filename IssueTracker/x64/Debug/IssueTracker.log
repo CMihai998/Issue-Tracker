@@ -1,0 +1,11 @@
+﻿  QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly.
+  Moc'ing Programmer.h...
+  Uic'ing Programmer.ui...
+  Rcc'ing Programmer.qrc...
+RCC : warning : No resources in 'M:\Facultate\Info\OOP\Exam\IssueTracker\IssueTracker\Programmer.qrc'.
+  
+  moc_Programmer.cpp
+  Programmer.cpp
+  main.cpp
+  qrc_Programmer.cpp
+  IssueTracker.vcxproj -> M:\Facultate\Info\OOP\Exam\IssueTracker\x64\Debug\IssueTracker.exe

@@ -1,0 +1,4 @@
+Mihai,programmer
+Banu,programmer
+Andrei,tester
+Edi,tester
